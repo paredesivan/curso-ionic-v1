@@ -63,7 +63,7 @@ $ karma start tests/karma.config.js
 
 7. Clase 7
 7.1. Consideraciones sobre Builds en (Android / iOS)
-7.2. Buenas Prácticas (Generator Ionic, Ionic Box, ironic-starter)
+7.2. Buenas Prácticas (Generator Ionic, Ionic Box, ionic-starter)
 7.3. Preparando el APK
 7.4. Cómo publicar en Google Play
 7.5. Consideraciones sobre Ionic 2 y Angular 2
